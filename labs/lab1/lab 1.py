@@ -1,5 +1,5 @@
 """
-Name: <your name goes here - first and last>
+Name: Iva Karalic
 lab1.py
 
 Problem: This function calculates the area of rectangle

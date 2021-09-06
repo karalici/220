@@ -2,7 +2,6 @@
 Name: Iva Karalic
 lab2.py
 
-Problem:
 """
 def sum_of_threes():
     a = eval(input("Enter the max: "))
